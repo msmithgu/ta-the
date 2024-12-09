@@ -1,0 +1,7 @@
+Service,IP Address,Listening Port
+Login Service,10.128.72.69,443
+Auth,10.128.72.20,443
+Matchmaking Service,10.128.12.60,443
+User Profile DB,10.128.24.14,5432
+Gaming Service,10.128.72.12,2600
+Gaming UI,10.128.72.14,443
