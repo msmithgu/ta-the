@@ -12,7 +12,7 @@ I have prior experience working on projects that involve dynamic SVG generation,
 
   - [graphl](https://github.com/msmithgu/graphl/): A simple domain-specific language for describing service architecture
   - [dynamic designs](https://msmithgu.github.io/dd/display-stand/): A tool for generating parameter-controlled SVG design files for laser cutting.
-  - Wärtsilä: While at Wärtsilä, I worked on dynamically generating control maps for power plants.
+  - Wärtsilä: While at Wärtsilä, I worked on dynamically generating control maps for power plants, and also many many many different sorts of graphs and visualizations.
 
 Building on these experiences, I applied similar techniques to this project.
 
